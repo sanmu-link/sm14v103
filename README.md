@@ -7,5 +7,8 @@
 
 ## 项目维护
 
-sun-lichao@163.com
+项目维护:slcmcu
+邮箱:sun-lichao@163.com
+QQ交流群:746419380
+开源社区:http://www.sanmulink.com
 
